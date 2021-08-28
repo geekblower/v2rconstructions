@@ -1,6 +1,5 @@
 Thanks for downloading this template!
 
 Template Name: V2R Construction
-Template URL: https://
+Template URL: https://geekblower.github.io/v2rconstructions/
 Author: Geekblower
-License: This template belongs to Geekblower and V2R Construction
