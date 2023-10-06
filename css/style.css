@@ -171,8 +171,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.3);
 }
 .intro h1 {
-	font-family: 'Montserrat', sans-serif;
-	color: #fff;
+	font-family:'Times New Roman', Times, serif;
+    background-image: linear-gradient(rgb(8, 10, 10), rgb(141, 101, 165));
+    color:#cc0033;
 	font-size: 62px;
 	font-weight: 700;
 	margin-top: 0;
